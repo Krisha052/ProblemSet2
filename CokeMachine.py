@@ -1,7 +1,7 @@
 """Program planning
 - only accepting 25, 10 & 5 cents
 - counting the total until count reaches 50 or is above 50
-- returning any change
+- returning any 
 """
 
 def main():
