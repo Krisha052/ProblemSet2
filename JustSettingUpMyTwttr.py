@@ -1,5 +1,5 @@
 
-def main():
+def main()
     phrase = input("Input: ")
     vowels = {"a", "e", "i", "o", "u", "A", "E", "I", "O", "U"} #sets are more effective than lists for membership checking, better time complexity (immutable)
     updated_phrase = ""
